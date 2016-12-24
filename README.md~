@@ -7,4 +7,6 @@ To use:
 
 (2) Generate twilio secrets by making an account. https://www.twilio.com/
 
-(3) Deploy an AWS lambda function following these instructions. http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html
+(3) Run `touch log.txt`. 
+
+(4) Deploy an AWS lambda function following these instructions. http://docs.aws.amazon.com/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html
